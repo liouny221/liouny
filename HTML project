@@ -1,0 +1,98 @@
+<html>
+ <head>
+<!DOCTYPE html>
+<title></title> 
+</head>
+<body style="background-color:bisque;">
+</body>
+</html>
+
+
+<div id="header">
+<p id="name">Sane Alioune D.</p>
+         <a href="mailto:adsane2@neiu.edu" target="_blank"><p id="email">alioune.sane@hotmail.fr</p>
+     </div>
+     <div class="left">
+     </div>
+     <div class="right">
+            <h3>CV Highlights</h3>
+            <p>
+            <ul>
+                <li>Currently a passenger service assistant at Prospect airport services</li>
+                <li>Very skilled in face to face customer service</li>
+                <li>An independent, dedicated, efficient person. These attributes are proved through the series of courses I have taken or I am taking as of now independently through online platforms.</li>
+                <li>Good Communication Skills, Presentation Skills, knowledge in accounting, critical thikning, and a very good team worker.</li></ul>
+            </p>
+            <h3>Professional Experience</h3>
+            <h4 id="company-name">Prospect Airport service</h4>
+            <p id="job-title"><strong>Passenger service assistant</strong></p>
+            <p id="job-responsibilities">Job Responsbilities</p>
+            <p>
+            <ul>
+                <li>Assist passenger with disabilities</li>
+                <li>Interact with other passenger to direct them</li>
+                <li>Translating french to enlgish </li>
+                <li>Team work </li></ul>
+            </p>
+            <h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Schools</td>
+                    <td>Degree or exceptation of graduation </td>
+                    <td>GPA</td>
+                    <td>Year</td>
+                </tr>
+                <tr>
+                    <td>Northeastern Illinois University</td>
+                    <td>Bachelor in Science of Accounting</td>
+                    <td>3.29</td>
+                    <td>2018-2020</td>
+                </tr>
+                <tr>
+                    <td>Triton College 
+<a href="url"> https://www.triton.edu/</a>
+</td>
+                    <td>Associate in Accounting and business administrations</td>
+                    <td>2.95</td>
+                    <td>2016-2018</td>
+                </tr>
+          
+            </ul>
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Excel:</span> Intermediate </li>
+                <li>
+                <span id="course-name">Word:</span> Advanced.</li>
+                <li>
+                <span id="course-name">Powerpoint:</span>Intermediate</li></ul>
+        
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and knowledgaable working person. I believe in very detail work and focus on meeting goals .
+                <li>
+                <span id="course-name">Languages Known:</span>English, French, Spanish and Wolof</li>
+                <li>
+                <span id="course-name">Hobbies:</span>I love going to the gym and play socce / read books about stock market and finance. I travel very often tooduring my break time from school.</li> </ul>
+            </p>
+            <h3>Other Information</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name">Expected Salary:</span>Currently seeking for internship in order to discover the accounting word</li>
+                <li>
+                <span id="course-name">Area of Interest:</span> Accounting, Finance, Management, Customer Happiness, Client service, Investment Banking, Corporate Finance, Hedge Funds</li>
+                <li>
+                <span id="course-name">Availability Date:</span>As soon as possible</li></ul>
+            </p>
+            <h3>Special Note</h3>
+            <p>
+            I declare that the details furnished above are true and correct to the best of my knowledge and capability.</p>
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
